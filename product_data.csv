@@ -1,0 +1,501 @@
+product_name,category,price,sku,stock_quantity,release_date,manufacturer,warranty_period,rating,is_available
+Fast Note,Electronics,546.66,9cc72c1f-d6b6-43e4-890e-8de2d543ae3b,451,2022-06-15,Cross-Cole,1 year,3.2,No
+Lose Eye,Beauty,807.18,2bc805b5-43e3-4908-b179-a78b14b71df0,4912,2022-08-13,"Martin, Schwartz and Smith",1 year,2.8,Yes
+Cell He,Electronics,759.25,774c95e6-75bd-4ec4-8894-c18186b32b84,1938,2020-10-30,"Morgan, Davis and Davis",6 months,3.3,Yes
+Whom Find,Electronics,22.81,6d2fa628-4064-449f-a692-5645c21d9c9e,1937,2023-08-12,Barajas-Lucero,2 years,2.1,Yes
+Population Later,Sports,772.54,bc314614-062d-433c-9a29-372c72150521,1635,2020-06-28,Salazar-Vaughan,1 year,4.5,No
+Service Maintain,Clothing,138.83,42c2a0d8-b750-43d1-ae06-436aba43507b,1393,2022-08-04,"Palmer, Johnson and Bell",2 years,3.0,Yes
+Lead Recently,Electronics,306.33,f4d0ae10-1885-4546-9d30-b46a0067d2d9,935,2020-11-19,"Morris, Short and Castaneda",3 years,3.6,Yes
+And Listen,Electronics,964.91,1b519511-ed3d-49de-99f1-4226f3328f37,2616,2021-08-07,Herman and Sons,1 year,2.8,No
+Head Personal,Electronics,293.87,88391193-aeda-43ad-aebc-5808b4357914,946,2021-02-04,"Santana, Gillespie and Leonard",2 years,4.3,Yes
+Yard Civil,Beauty,165.99,1cffdda1-b981-48cf-9491-a068523bd79d,4751,2022-01-29,"Evans, Ward and Smith",3 years,4.3,No
+Suddenly Very,Clothing,877.62,25280f6e-3b5e-4721-a53c-a266989ee5cb,2709,2024-07-20,"Lewis, Hardy and Craig",3 years,4.8,No
+Possible Spend,Sports,831.6,06ffe946-a328-497f-b046-d8068267016e,3309,2020-09-04,Henry-Wilcox,3 years,1.6,Yes
+Compare Campaign,Beauty,316.76,341f22cf-4363-4911-917c-f9b5dad0eb12,577,2024-08-29,"Lawson, Anderson and Thomas",1 year,1.6,Yes
+Yet Two,Electronics,904.87,21f216da-cd9d-436d-9505-716447b37cb8,2478,2021-12-16,"Williams, Vaughan and Bradley",3 years,4.3,No
+Enough Tell,Home & Kitchen,229.0,bcc7e22c-7784-4b6c-83b8-7824b4c18644,131,2021-05-25,Knight-Hunt,2 years,3.9,Yes
+Mother Despite,Electronics,330.49,35ddee44-b858-4b8b-85f9-e5e61451113f,4037,2021-05-16,Merritt-Young,6 months,1.4,No
+Outside Sit,Sports,482.35,a7e31b0c-9c45-4b1a-83de-fcbfda29e06a,4462,2022-10-17,Martin LLC,2 years,3.0,Yes
+Raise Consider,Electronics,657.1,17db1d9c-8668-4a32-8f38-b1bd2b2958b4,2885,2022-08-04,"Robbins, Ramsey and Jordan",2 years,4.9,No
+Yourself Goal,Electronics,931.03,e76b81d8-7396-4c4e-8319-a385802aeca3,1345,2020-09-11,Levine PLC,1 year,3.8,Yes
+Why May,Clothing,907.31,a1bd293a-ce7e-4688-8077-47db2c42882c,24,2023-01-17,"Short, Hopkins and Garcia",1 year,1.4,Yes
+Actually Less,Clothing,67.45,875a9636-ffe9-4b38-8ae6-6e791c346d1d,4350,2023-03-30,"Clark, Castillo and Chen",2 years,4.1,Yes
+Entire Computer,Electronics,793.08,202fa14c-722c-480a-89ce-411e7f295726,4570,2020-10-31,Frazier and Sons,3 years,4.9,No
+Beyond Single,Home & Kitchen,36.02,59605e28-40cc-443f-a898-8c1f7c1709ca,1420,2023-01-11,"Robbins, Joyce and Gross",1 year,3.0,Yes
+Paper Truth,Electronics,205.2,a1c038da-3c28-41c8-ac6a-7b912c7cdab1,3251,2022-03-15,Morris-Yu,2 years,2.8,No
+Office Including,Beauty,747.13,95cfb7c2-797f-4b59-bd72-f03a29be9c4f,1791,2024-11-26,Evans LLC,3 years,2.8,Yes
+Put Even,Sports,378.28,064855f8-5168-406a-8563-3ae51e82281f,4022,2022-02-27,Kelly Group,2 years,3.6,Yes
+West Network,Electronics,746.27,af2a6da7-71f7-457c-b60e-a708a6bab4e7,1427,2024-02-19,Romero-Robertson,3 years,2.3,No
+Street East,Home & Kitchen,797.48,9852b9d1-19a9-4cf5-9971-bf081e66b46a,2568,2024-04-21,Johnson-Reeves,6 months,1.4,Yes
+Responsibility Several,Clothing,495.83,563afca4-d9d1-4dae-b882-491abeb57ff6,1157,2023-02-04,Lewis and Sons,6 months,2.9,No
+Front Decide,Beauty,800.68,e2d74d7a-5d17-48df-ae98-fb692b1cc824,195,2023-09-03,Powell Group,1 year,4.7,No
+Week Pay,Sports,493.45,f73936a5-4b5e-4da5-95e2-6b9eb41568ff,4344,2021-02-17,Young Inc,1 year,4.5,No
+Yard Add,Electronics,220.76,57e4ffd4-8463-47d5-a564-4f424760f4ac,3947,2021-09-03,"White, Steele and Allen",1 year,2.3,Yes
+Clear Technology,Beauty,878.14,9bb113f0-bf80-407f-9075-cc0a75df3bf5,686,2022-09-18,Yates Ltd,2 years,4.6,No
+Policy Buy,Beauty,47.66,6c85d3a6-0f51-4d15-981a-7d1c868bcdf8,245,2023-02-04,"Reyes, Pena and Merritt",1 year,4.9,Yes
+Rise Choice,Sports,97.04,40348073-cebf-4c76-9dbf-f551a4a3ac66,4595,2025-01-31,"Willis, Allen and Keller",6 months,3.4,No
+Daughter Set,Beauty,729.03,a58dd543-4477-4344-8f30-89aa4c853b05,1971,2020-06-26,Rocha Inc,1 year,3.2,Yes
+Affect Or,Electronics,186.44,85fc3bda-5e30-4b01-86cb-efc327d48eae,642,2025-01-28,Berry-Lewis,3 years,1.7,Yes
+Expert Own,Beauty,606.91,06236cfd-202e-4b1b-9e18-312d97c19d50,3464,2020-11-02,Mcdonald-Johnson,1 year,1.4,No
+Style Use,Beauty,898.77,3bcb30e9-4991-4b6b-b129-65547152e787,2785,2024-08-25,Martinez-Vargas,3 years,1.2,No
+Ask Finish,Home & Kitchen,290.0,e673175c-3c34-4d07-87de-9f67aaa4b84f,140,2024-12-01,"Moore, Robinson and Nunez",3 years,1.3,No
+Catch Scene,Sports,645.82,c476916b-cca6-434b-b8db-c3a90f349035,2454,2022-12-15,Knight-Alvarez,1 year,2.3,Yes
+Cultural Teacher,Electronics,938.58,8e39b2f7-a53e-481b-ae32-5688660f7cfb,3484,2022-09-21,Carlson LLC,6 months,3.3,Yes
+Nor Might,Beauty,440.63,b71bcaf8-ce0d-46eb-94b2-34ab72a7b73f,4692,2023-09-19,Smith and Sons,6 months,3.8,No
+Cost Class,Electronics,673.68,f331d836-c495-4973-a745-b231b24bf13f,1961,2023-11-18,Holden-Rasmussen,3 years,2.4,No
+Citizen Red,Sports,956.88,5e5b7e2f-92cc-4efe-bd78-dc5ebca83bfd,4655,2022-06-08,Bass Ltd,6 months,2.7,No
+Common Pay,Electronics,866.06,377bd392-eb27-456b-b1a6-770adcfca4a5,70,2023-02-20,Cooper Inc,6 months,3.2,No
+Fall News,Home & Kitchen,799.39,77aa3628-d722-446a-9415-face6eb21357,3348,2021-04-15,Conrad-Adkins,1 year,3.4,Yes
+Commercial Training,Home & Kitchen,311.47,b8309686-0bde-4c54-9cea-ebca6fc358bf,3737,2024-12-27,"Lindsey, Green and Walls",1 year,1.7,No
+The Avoid,Home & Kitchen,604.68,068ebd26-9b83-46a5-9b3a-79f55126cc56,3441,2022-03-30,Jones PLC,2 years,2.7,No
+Ever Good,Beauty,909.52,fbed79a7-478e-4f4e-8550-611902f8da2b,1171,2022-08-11,Patel and Sons,6 months,2.1,No
+Play Attorney,Beauty,335.01,1f389a32-7050-48ef-b002-857da00ee5a8,2104,2022-07-16,Ritter Ltd,6 months,3.7,No
+We Maybe,Clothing,62.73,4f9700a5-16f0-41b3-81f4-0c89c5571e43,1448,2022-10-14,Walters-Guerra,3 years,1.9,Yes
+Relate Group,Electronics,336.33,2ca2a667-f8d5-403b-a35f-eb5a26dfbbbc,1470,2022-02-08,"Saunders, Kim and Mitchell",2 years,4.5,No
+Hour Likely,Sports,57.83,1b94356f-319f-45c1-8205-98f712617d24,624,2024-02-11,Bryant-Richardson,1 year,4.7,No
+Southern Along,Electronics,550.48,5b1eff42-ccb7-4d43-8443-0fe54323df74,443,2024-01-17,Anderson LLC,6 months,4.3,Yes
+Factor Must,Beauty,43.69,cbd54fd8-14aa-4e3a-985f-86d7e68795cf,1323,2020-10-04,Brown Ltd,2 years,3.7,No
+Stock Small,Electronics,922.3,0fc34a9c-0bba-4f42-a222-2e4418df13b7,2750,2020-08-02,Miranda-Harrell,1 year,3.6,No
+Mind Pull,Sports,144.0,e02668f7-c431-4973-bc50-53a6a3a75e10,1063,2020-06-08,"Waller, Neal and Rodriguez",6 months,1.6,Yes
+Pass Speech,Sports,825.44,6f6d541b-4485-47b4-9471-2ea5c141fc6e,3430,2025-01-01,Lewis and Sons,3 years,1.1,Yes
+One Go,Clothing,974.49,95811b87-c176-4253-ad3b-212a3598400b,4166,2023-09-17,Richardson-Horton,2 years,1.4,Yes
+Another Check,Beauty,925.72,5e4fb01a-7a40-4ae8-b8af-d119959300c9,3262,2023-08-23,Thomas-Johnson,3 years,4.2,Yes
+Company Likely,Beauty,726.72,1bea5f4c-e100-4293-9745-785986be3f14,3210,2021-11-22,"Mendez, Simmons and Perkins",3 years,4.1,Yes
+Listen Catch,Home & Kitchen,261.35,4541bb67-0a73-4e52-bf2b-ff05e5695286,2367,2021-02-16,Ball LLC,1 year,2.8,Yes
+Central Model,Clothing,461.44,581efa50-8727-4710-8f0c-26f301924fd0,984,2024-03-16,Hawkins PLC,6 months,1.6,Yes
+Office Stay,Clothing,491.94,c6a9c15d-0110-4d75-8e8f-705c08d2344e,270,2020-07-07,Mitchell Group,6 months,4.0,Yes
+Foreign Five,Electronics,114.82,fc0bf8f6-388b-4297-8cd2-2a739a6df891,3877,2022-03-21,Lee Inc,2 years,2.8,No
+By President,Electronics,353.14,fd0feaa7-d082-4030-9d34-1a8662a6e939,1279,2020-10-02,Conrad PLC,1 year,3.9,No
+Alone Artist,Clothing,927.46,d9d12037-55b3-4af2-ace4-98b690c38620,3256,2023-04-14,"Smith, Robinson and Mays",6 months,2.0,No
+Whatever Billion,Electronics,309.55,533a07b2-81ca-4b84-90dc-94c69d19378e,4927,2020-04-17,"Price, Wong and Weaver",3 years,2.1,Yes
+Movie Everything,Electronics,758.08,9be6804d-e4f3-4b53-bd80-68359b31b5a2,2802,2023-05-21,"Brady, Snyder and Fisher",2 years,1.4,No
+Thus If,Electronics,535.35,483c31e6-e0d2-4701-aa1b-1ea89c49f818,964,2020-09-23,"Lopez, Lambert and Hardin",1 year,2.9,No
+Send Young,Sports,355.28,60128df9-6941-4363-a307-88d69b1a49da,3951,2020-08-10,"Romero, Kim and Rodriguez",3 years,2.2,No
+Owner Suggest,Electronics,319.29,8df53ea7-e0e2-42d6-b2ed-3bf7d6f6f90b,2702,2023-06-23,Jenkins-Payne,1 year,1.8,Yes
+Identify Send,Sports,622.17,ab949b9f-884b-4464-9efb-49d2e410f714,1323,2022-04-07,Adams-Walsh,3 years,3.5,Yes
+Toward Energy,Beauty,984.27,49b099f1-7208-4448-9e22-07cdb8e2c175,495,2021-03-30,Mcknight-Vincent,6 months,4.4,Yes
+Force Or,Electronics,719.8,ae5e5d6e-3846-48cf-8a3a-41c9cd6f5f21,2427,2020-06-30,Kelly Group,3 years,1.7,Yes
+Might Half,Electronics,335.75,5b9353fe-8ff6-456b-b385-c2b4af662dd0,4372,2024-12-29,"Baxter, Rowe and Anderson",3 years,1.1,Yes
+He Enough,Beauty,408.7,ba284d8d-a557-4156-a79f-a66de0d1ac67,2555,2022-03-31,"Villarreal, Shelton and Schwartz",2 years,4.1,No
+Actually After,Beauty,642.59,b1ecfb7c-b340-4461-b574-165a652286c5,3903,2020-09-12,"Mann, Perez and Beck",3 years,2.8,No
+Professor Market,Clothing,779.42,38482192-4499-4953-869e-f3d3a516e466,1047,2021-10-31,"White, Evans and Mcpherson",6 months,3.1,Yes
+Last Option,Beauty,532.54,d96308ce-0000-4b21-973e-e24c08ef47d0,366,2025-01-01,"Francis, Chen and Fleming",6 months,2.4,Yes
+Free Space,Sports,929.77,c22a3f7f-01a7-4f09-b140-dc708e1ff9bf,1349,2022-10-10,Jimenez and Sons,3 years,4.9,Yes
+Return College,Beauty,671.59,c7904683-94ff-4443-b473-a283696dcde5,1075,2024-04-11,"Barr, Reynolds and Rodriguez",3 years,2.9,No
+Production Different,Clothing,277.06,2e925d5c-0768-446f-a95c-aae4035aa667,90,2020-07-24,Smith Ltd,1 year,1.3,Yes
+Administration Stand,Electronics,807.58,4f581b7c-7cf5-490b-a37c-5276fd90c416,3071,2024-05-25,"Clayton, Daugherty and Morse",1 year,3.0,Yes
+Fly Past,Sports,923.68,8237e3b4-0624-4467-8015-39c0926984e9,1726,2023-03-08,"Robinson, Smith and Butler",3 years,1.8,No
+So Free,Home & Kitchen,405.07,6853c2c0-bd29-49c4-b829-b99cba1a7bb1,3862,2022-02-20,"Trujillo, Johnson and Brown",6 months,4.1,Yes
+Somebody Reflect,Electronics,536.84,bebfcc02-058a-4c90-a66d-3f9601701ce7,4289,2021-01-01,Owens-Taylor,3 years,2.1,No
+Thousand Create,Home & Kitchen,412.06,ec54e359-2bc0-45c5-a548-5e78047d7d0e,4345,2022-08-04,Mack-Cantrell,1 year,4.1,Yes
+Point Back,Home & Kitchen,52.7,4e6d5673-ec60-4540-b9f7-813291a9c8c3,4120,2021-02-03,Washington Ltd,1 year,4.3,Yes
+Beyond Student,Electronics,923.94,66132485-a5f2-43b8-b83e-9d0165580a01,4724,2025-02-11,"Stewart, Schultz and Price",6 months,4.3,Yes
+Star I,Electronics,864.46,3a6adf2b-67f3-4a9e-b6cd-c60149c9c91d,121,2023-10-11,Bush LLC,6 months,2.5,No
+Program Trouble,Clothing,10.55,d7c6e103-eb2b-424f-9705-81b84caddc5f,72,2022-12-17,"Martinez, Ramsey and Shaffer",3 years,2.7,Yes
+Social Many,Beauty,851.85,b7c5f57b-a5fa-41be-b21a-ddd59ef69fea,4767,2021-11-28,Barajas-Weiss,6 months,3.6,Yes
+Third Describe,Beauty,453.41,c45e0efa-b913-46ff-b89c-18c9d502f50e,1171,2024-02-21,"Dunn, Wilcox and Schneider",1 year,1.9,Yes
+Case Time,Home & Kitchen,371.03,175d3dc6-feae-4e0b-aa97-e35d6c854702,2382,2023-05-09,Glass-Atkins,3 years,3.0,No
+Turn Up,Electronics,466.36,7699587b-a045-4c34-9311-c972ce9ded91,3848,2023-08-23,Sanders LLC,1 year,4.7,No
+Executive Analysis,Beauty,542.5,5546762f-9ce6-4df8-a77f-dba3925aa9fa,1609,2023-10-19,"Cook, Holmes and Haynes",6 months,1.7,No
+Happen Glass,Electronics,310.83,ba18768e-da03-4d65-b50c-c763daa646f6,4738,2023-01-28,White-Boyd,6 months,1.8,No
+Late Someone,Beauty,396.3,191a4864-e95b-4220-a3c7-db14ffd31f1a,1339,2024-10-23,Brown-White,3 years,4.6,Yes
+Middle Season,Electronics,432.93,b860d507-09ba-4031-b986-0075ad80c4c2,4702,2022-09-28,"Romero, Walker and Roberts",3 years,2.1,Yes
+Student Official,Beauty,541.55,f094c371-b5ad-4b94-88d5-92d47166b5ee,166,2023-07-09,"Stephenson, Garcia and Sanchez",3 years,4.0,Yes
+Oil College,Electronics,141.15,b9967f0e-3a40-4051-b44a-d2bfc866046b,4960,2024-02-15,Mccall Ltd,2 years,2.8,Yes
+Card Down,Beauty,452.55,683f111f-67f5-4487-beb1-0069845ad003,849,2023-08-14,"Melton, Hill and Juarez",3 years,3.4,No
+High Development,Electronics,577.77,2ec1fe6c-e08f-4f95-8a57-9529c58f7b53,1894,2020-08-17,Martinez-Davis,1 year,1.2,Yes
+Along Station,Beauty,266.66,70a75864-1772-41cd-977f-064124b8cdd4,2643,2021-03-17,Cooper-Smith,6 months,3.7,Yes
+It Buy,Electronics,76.98,8738e034-a82d-468d-9b7b-029de4d8afd7,2470,2021-05-06,Herrera-Jenkins,2 years,2.2,No
+Exist Manager,Sports,52.61,482a6ae8-7c59-48a0-b553-aae7850b4b07,3205,2020-08-01,Singh Inc,1 year,3.8,No
+Second Federal,Electronics,46.75,f48d7ccc-d072-4806-8d0f-c9a1dc564bf5,1229,2020-05-25,Green-Salas,6 months,3.4,No
+Huge Husband,Sports,165.62,408056af-efdb-4ea0-8902-53818e18b1a0,1114,2021-05-12,"Molina, Sims and Carter",2 years,1.9,Yes
+Yet That,Clothing,72.38,14b4899a-493f-4cd9-a74a-609ee4165971,3728,2021-08-16,Jordan-Nunez,6 months,3.3,No
+Order Green,Home & Kitchen,569.51,2f2c2193-be6c-46a9-8894-ccb860191dd9,4586,2020-11-24,Thornton and Sons,6 months,4.2,No
+In Father,Electronics,862.35,b9e9faed-af67-477c-9ed6-f6b930e69c3c,1753,2024-01-24,"White, Webb and Cole",3 years,3.6,Yes
+Usually Natural,Electronics,229.97,5243faa6-b4d0-46ac-8690-2df78cabff61,4384,2021-04-21,"Johnson, Wolf and Parsons",3 years,3.7,No
+Suggest It,Home & Kitchen,530.97,1375eb9a-fdcc-4cfd-b848-ddaef54745d9,594,2021-08-25,Hayes-Johnson,2 years,1.0,No
+Federal You,Electronics,169.65,55ae75ef-4f95-4b2f-90f8-65a28839518d,4245,2023-12-24,Evans Inc,3 years,3.6,No
+Decide Vote,Beauty,253.84,259747cb-a744-45a4-9899-9b4370e1c5d8,2595,2024-06-14,"Kelley, Lewis and Shepard",2 years,1.1,Yes
+Crime Director,Beauty,721.71,7c90abae-c990-4544-9f69-6f68c1c1a170,3720,2022-03-16,Lin-Palmer,3 years,2.6,No
+Structure Many,Sports,61.0,12bdd692-ae86-487a-aad1-4209db8f3a4d,3540,2021-08-19,Rodriguez-Lindsey,3 years,1.9,No
+Wait Start,Sports,237.03,128e6de9-a55a-470f-bfce-23cd1ec3ab56,2946,2023-01-27,Miller and Sons,2 years,1.8,No
+Professor Seem,Home & Kitchen,68.81,f54a319a-4ad0-4f51-84bc-649d4b0cb94a,2904,2020-11-04,Soto-Long,6 months,3.2,No
+Citizen Tax,Electronics,849.51,af564ca7-35c7-457e-b71e-4cbea4ed7682,3998,2024-07-19,Mitchell Inc,1 year,4.6,Yes
+Likely Well,Sports,261.77,679e981b-da2e-4e49-8b36-8a8f78f07ebe,2188,2020-07-04,"White, Wilkerson and Jones",3 years,4.5,Yes
+Increase Soon,Beauty,995.56,a4d2f61a-72da-43a9-9a8b-9bb9c46f82f1,4270,2024-02-02,"Stokes, Chandler and Hammond",3 years,1.3,No
+Bar Least,Beauty,988.27,6b80ff26-a2ea-4994-b46f-2f8f2c8bf1c6,3961,2024-11-30,Ward PLC,2 years,4.3,Yes
+Share Couple,Clothing,90.66,de1f50f2-7410-4a76-a89d-2b6337585f42,151,2024-09-05,"Osborne, Grant and Johnson",6 months,4.0,Yes
+Book Hair,Clothing,492.07,4540dddf-f468-41ed-bfe6-3c420a274da6,1403,2022-06-02,Russell-Deleon,1 year,4.1,Yes
+Because Hair,Electronics,479.81,5fec7b2c-c29f-4705-866c-6ec74cac3345,1268,2020-07-18,Carpenter Ltd,1 year,2.6,Yes
+Travel Analysis,Sports,854.05,357ec1d9-c67e-4c88-a217-241181e85d86,2429,2022-08-28,"Branch, Dean and Evans",3 years,2.7,No
+Of Course,Home & Kitchen,543.4,744aeecd-90fd-46d1-b2a6-88a08e0931cd,360,2023-03-21,Lewis-Hunt,6 months,2.4,No
+Institution Teach,Electronics,901.37,a4f48318-f2ca-41b8-9ded-496ef9488e8f,3343,2024-11-14,Sullivan-Carson,6 months,3.8,No
+Although College,Home & Kitchen,755.56,07751f7f-e090-4731-8288-17b0a83fd2d1,1967,2021-01-03,Jones-Grant,6 months,1.1,No
+Memory Face,Sports,265.41,35d9e48a-bfe3-4d98-be19-aba198327a74,3679,2023-04-07,"Watkins, Gomez and White",3 years,2.3,Yes
+American Hospital,Electronics,739.62,e890285d-1bf7-4975-9b12-86dab7cb8581,1450,2020-03-18,Alvarado-Johnson,2 years,2.5,Yes
+Size Mr,Clothing,568.22,5f3c61fc-e820-4e75-8fa6-982977948b39,611,2021-09-29,"Huffman, Martinez and Baker",1 year,3.7,Yes
+Home Tend,Sports,595.44,7baf1062-7897-46fd-be33-b6d70e7af64c,3288,2020-10-18,"Sawyer, Gonzales and Henderson",2 years,5.0,No
+Indeed Draw,Clothing,858.46,332e1488-69ea-47f0-916f-d0b0f6cfa0f1,1617,2020-09-18,Terry and Sons,6 months,1.8,No
+No Direction,Beauty,280.45,677aed04-e5bd-49a9-8db1-8528f5694d77,282,2020-04-15,Rodriguez-Robles,6 months,5.0,No
+Present Address,Electronics,730.89,1fcd2527-de81-42fe-b1a3-f1c5732fe22a,4982,2022-07-04,"Calderon, Maddox and Mitchell",1 year,3.2,Yes
+Room Soldier,Home & Kitchen,731.51,713ecc42-afdd-4b15-a187-f61bdb0a6073,2835,2022-02-18,Brown-Cain,1 year,3.8,No
+Blood Too,Home & Kitchen,723.4,df8e4aff-464b-45aa-81e3-2bb80cc7a921,818,2022-10-27,Hughes Inc,1 year,4.8,No
+Big Source,Electronics,893.63,17d6741e-e620-45a4-8ff5-6db2dcb8ef13,2781,2022-12-02,"Wheeler, Sanders and Kennedy",2 years,4.8,No
+Rich Star,Electronics,888.54,5901e71f-877c-490b-96d4-c1c3f22f0b47,3585,2023-07-09,Molina Inc,2 years,4.3,No
+Race Each,Home & Kitchen,646.12,694ea21d-2d8c-4c4e-a7fc-de152b72c01b,4289,2022-01-18,Atkins and Sons,6 months,1.7,No
+East Those,Electronics,400.52,756d637b-8bf2-4790-9d2c-fd0e6700945a,3611,2022-12-15,"Miller, Andersen and Crane",3 years,4.8,Yes
+Behavior Three,Home & Kitchen,407.2,d2660163-a5b1-4220-92c7-46fb3402b207,3052,2021-05-03,Norton-Mcclain,3 years,4.2,Yes
+Wind Real,Home & Kitchen,61.24,573b3877-9e1b-4ad6-ba63-91df4914f37e,3361,2024-09-20,"Kirk, Crawford and Brown",2 years,1.7,Yes
+Dream Oil,Home & Kitchen,432.07,6ea6dbb4-40c6-49a8-bb00-7a423a9cc624,1137,2023-07-04,Weber Inc,6 months,2.7,No
+Song Federal,Home & Kitchen,518.02,04c2206c-d59d-415a-90ec-60e2f8b3a907,4280,2024-08-25,"Johnson, Washington and Ruiz",2 years,3.8,Yes
+Bar Discuss,Sports,120.78,9189f1ce-42eb-4d77-a632-e90a6b3b2e03,2285,2021-08-16,Fernandez-Schaefer,6 months,1.0,Yes
+Home Big,Beauty,353.94,109e1a39-781a-44ec-86b9-a95730687ac8,2899,2021-12-09,Cross-Stokes,3 years,2.6,No
+Somebody Ten,Electronics,838.39,d5ccb72b-61a6-4bed-9356-0e4de1532625,98,2021-08-09,"Lucas, Wright and Robinson",6 months,3.7,No
+Left About,Clothing,709.83,4de31ada-5238-4f9e-87a8-9a00b2eae524,3903,2022-05-21,Patterson and Sons,3 years,4.4,Yes
+Relationship Specific,Beauty,947.94,1aca8fac-e84f-4e3e-b56e-484065cdc4a1,1006,2020-11-06,King-Coleman,3 years,4.2,No
+Test Wide,Electronics,330.18,3452ebca-a682-4624-8be1-c3f673c6ec08,945,2025-01-19,Cox and Sons,3 years,2.4,No
+Artist Board,Beauty,732.2,22b3d270-bafc-4ab3-a74f-96f42228379a,2668,2024-09-26,Knight-Ferguson,1 year,2.5,No
+Task Step,Clothing,522.25,1a3a5d34-6601-4419-a4ab-57c8915f7107,3104,2020-11-15,Lawrence-Williams,1 year,3.1,No
+Own Growth,Electronics,972.22,7deb028d-531f-4166-bf53-492252bd3a59,2395,2021-12-09,"Charles, Baker and Roberts",3 years,3.1,Yes
+Sell Light,Sports,948.11,237296da-ce0b-4b63-8fd5-e9d55b984870,3976,2025-01-07,"Greer, Myers and Trevino",6 months,1.4,Yes
+Question Cultural,Clothing,144.38,cee42ec4-598b-4dd4-989f-96d84e6ec255,3335,2021-09-13,Davis Inc,6 months,3.1,No
+World Carry,Home & Kitchen,774.12,2bd049ab-e107-4d02-81d5-6701eb0664d4,447,2025-01-25,"Wells, Stephens and Benson",1 year,3.6,No
+Pretty Tough,Sports,573.68,d81a0d66-d5fd-4034-bc91-0b20806958c2,3415,2020-10-13,"Salinas, Henderson and Taylor",6 months,2.1,Yes
+Likely Know,Sports,228.95,260cce58-a0ef-4c0a-82b5-4b0fb6427604,4429,2022-08-14,Knight and Sons,3 years,3.8,No
+Support National,Beauty,983.76,5dbb33d7-d76e-4bfc-877d-24f277428e42,2338,2021-02-26,Houston Ltd,6 months,4.6,No
+Current Drug,Home & Kitchen,183.01,912e79c5-d3ba-4a5f-8771-c0bcec3c3f2a,4840,2024-05-01,"Prince, Schneider and Thompson",2 years,3.3,Yes
+There Stand,Beauty,992.04,d7b9c008-f302-494b-ac39-406844de1c4a,3523,2021-09-16,Crawford PLC,3 years,3.6,No
+Happen Someone,Home & Kitchen,828.12,65455539-37bd-4e6f-ae11-147b361c84d5,1392,2025-01-27,Miller Inc,2 years,2.2,Yes
+Reason Good,Clothing,901.81,d673fc64-bc52-46df-b38a-0050aa95b8fe,4020,2024-11-18,Perez LLC,2 years,4.4,No
+See Participant,Electronics,387.16,04cbcc36-54c9-481b-9525-e46d775e8989,1603,2023-01-26,Lewis LLC,1 year,1.2,Yes
+Customer Party,Home & Kitchen,85.61,32676d0b-a5eb-41d9-9b11-84f050a45370,133,2020-08-05,"Day, Melendez and Murray",2 years,4.4,No
+Allow Project,Sports,779.62,91a153b1-2dc7-4f02-920c-3f5c8735ce4c,4915,2023-09-05,Blankenship-Choi,1 year,3.5,Yes
+Interesting Public,Beauty,98.08,3d1796fa-350d-45c5-bf96-18cc0ae2ea6b,4632,2024-02-28,"Hamilton, Zuniga and Meadows",2 years,4.6,Yes
+Series Statement,Electronics,569.84,e14c2c25-acbf-46f4-8752-4eab4fd01f99,183,2021-08-24,Price-Hickman,2 years,3.6,Yes
+No Authority,Home & Kitchen,533.89,51357b1b-a93d-42f7-a4b7-4559cf83d830,4171,2021-04-25,"Jones, Mckay and Brooks",1 year,4.7,No
+Bit Class,Clothing,361.74,0c6c905f-e80b-4df5-ba54-567d0653a57e,2813,2025-01-30,"Bradshaw, Castro and Lee",6 months,3.9,Yes
+Themselves Ahead,Beauty,113.16,a502cab9-059b-433d-9d33-6eeefd91aee1,4132,2021-06-24,Aguilar PLC,1 year,3.9,Yes
+Discussion Event,Electronics,875.86,c54bc1d6-f244-4474-9032-dcc6046172ad,1277,2024-07-10,"Crawford, Thornton and Martin",2 years,3.3,No
+Involve Necessary,Clothing,301.56,4d0470da-a9d0-4c0d-9bd1-0605588e11e3,1680,2025-01-16,Lindsey Group,1 year,3.7,Yes
+Challenge Score,Electronics,204.07,760a6766-db4d-4b26-933c-c148335b498d,3723,2021-10-27,Sullivan PLC,6 months,3.4,No
+Quality Grow,Beauty,149.03,a00f747c-281e-4973-bd8a-3d231cf737e2,1951,2020-08-19,"Cooper, Schmidt and Wilson",2 years,3.3,No
+Phone Data,Beauty,546.3,1112a6fd-87fb-4995-b6ed-74a0c18b5549,3379,2021-08-16,"Carey, Palmer and Davis",1 year,3.2,No
+Operation Foot,Home & Kitchen,870.08,34dd2041-75b3-4e74-8c94-b30e1a092eae,2274,2022-06-15,Lopez and Sons,2 years,3.1,No
+Religious Turn,Home & Kitchen,708.57,d4d4468e-aa0d-403a-920f-54298c4eb958,626,2024-12-17,"Evans, Williams and Saunders",6 months,4.5,No
+Various Federal,Beauty,287.93,25de7fb8-c307-4cba-8f4c-0e2b093b245f,4281,2022-10-30,Lee Ltd,2 years,3.6,No
+Foot Other,Beauty,448.66,0c885296-d87a-4cca-9eda-ef11b8c66856,229,2023-01-27,"Carter, Richardson and Bell",6 months,2.5,Yes
+Poor Million,Beauty,493.47,7bfd7a53-5f19-4cae-8e51-3e6fe407f565,4517,2022-12-24,Brock-Ferguson,3 years,3.3,No
+Apply Thousand,Beauty,146.58,2d790928-d87b-4429-8180-f5cbc8d95b03,1101,2023-05-25,Crosby Ltd,3 years,4.2,Yes
+Daughter Then,Home & Kitchen,194.17,2df64e23-5f8e-42a8-8e04-f885145c726e,3511,2023-12-17,Roman Group,2 years,4.4,No
+Method Center,Beauty,629.74,b6d63eec-7c60-4eba-9115-14316c2e4195,3453,2024-11-12,Jackson-Atkinson,6 months,4.6,Yes
+Whatever Live,Electronics,821.81,a987ee40-bf7b-4caf-bcfb-a43e317706d1,1705,2022-02-13,Hart-Nixon,6 months,2.6,Yes
+Direction If,Electronics,857.18,8d0dad7c-ac00-4be3-9cea-3dc2e150b6fd,1649,2023-12-27,"Sanchez, Martinez and White",3 years,2.0,Yes
+Let Represent,Electronics,814.83,0b9f7669-6b12-492f-91af-b6cd1d0650b3,2428,2022-12-29,Clark-Gonzales,2 years,4.5,No
+Follow Share,Electronics,641.24,0391a904-c78f-4d65-b35e-f312985abd0a,753,2024-11-21,Webster Ltd,3 years,3.1,Yes
+Guy Loss,Clothing,745.62,4d413a72-01ca-4918-a028-de5ec98e2c8a,1619,2022-04-23,"Taylor, Gutierrez and Johnson",6 months,2.6,Yes
+Field Certainly,Electronics,922.42,5a4c574c-bf2f-4f62-bd19-4f7de7b40935,1889,2020-10-12,Larsen-Rodriguez,2 years,2.0,No
+Agree Store,Beauty,452.21,1c4c9fda-2edb-4a2f-b006-d195f9631626,672,2020-12-04,Williams-Mcconnell,6 months,4.6,No
+Increase Economy,Sports,738.29,85cdb275-5e2f-4447-9cf1-777d14f30fd3,1591,2024-11-10,Silva Ltd,6 months,4.1,Yes
+Bag Interview,Beauty,416.08,33756d7f-df3f-44ee-9696-25820a340ff8,1096,2021-01-22,Santiago LLC,3 years,3.0,Yes
+Almost Production,Beauty,812.55,9ed60503-c068-4042-be71-002fbb34ae91,2621,2020-12-13,"Smith, Holland and Leblanc",1 year,4.9,No
+More Ten,Electronics,185.52,5618ab2e-7883-41a4-8bf9-d6e0c9e87a5e,1964,2024-07-14,Rasmussen-Elliott,1 year,3.3,No
+Situation Surface,Sports,977.81,fdcf5eb9-18de-4b76-b2a0-e6a9f434ab07,2720,2024-11-17,Dean LLC,6 months,3.5,No
+Fire Protect,Electronics,643.78,cbf2af8f-52c5-4df1-b566-c754ce8e6520,4489,2022-10-20,"Randolph, Rangel and Farrell",3 years,4.6,No
+Debate Reflect,Sports,285.71,9232866f-02d1-466b-bacf-d337edc6352e,2421,2022-04-21,"Olsen, Brown and Jones",2 years,1.3,No
+The Strong,Sports,281.69,873321a9-71ba-4f1b-bf37-5ddaa139909c,4701,2020-06-15,Short Inc,2 years,4.8,Yes
+Against Early,Sports,950.54,1aa01725-d864-4b2b-b39b-d5aea4bf0b87,2256,2021-03-05,"Williams, Hartman and White",2 years,4.9,No
+Yes Land,Clothing,816.09,5a0d1bb1-bfc8-4e83-9928-f8780ca8dc03,968,2022-03-26,Smith-Stewart,2 years,3.7,Yes
+Summer Hotel,Electronics,538.68,05629903-bad2-465e-862c-794a862641c4,3635,2021-03-09,Tanner Inc,3 years,1.7,Yes
+Always Include,Clothing,477.81,b2de01e4-a623-46ac-a81b-2f2473b601f6,3489,2024-10-09,"Williams, Ramirez and Moore",1 year,2.5,No
+Official Class,Beauty,415.86,db172559-cafe-4d62-b5b8-4cba5b4b6fd7,3741,2020-08-18,Gibson PLC,1 year,1.6,No
+Lose Before,Clothing,279.01,e6d9abca-8755-4b07-b0ba-7a3924cffef5,1734,2021-05-09,Thomas and Sons,1 year,4.1,No
+Huge Dinner,Electronics,469.71,52db56b6-ce05-45ef-97a2-8078ba59299e,223,2020-10-20,"Kim, Watson and Dominguez",2 years,2.1,Yes
+Stock Bad,Sports,745.82,8d52ee8a-44e0-4217-92ba-06134d8b8aaf,3430,2020-10-24,Knight Inc,3 years,3.0,Yes
+Current Amount,Beauty,557.68,0466ac67-e718-4c16-b2c8-eb310f71581e,1099,2022-07-07,"Bryant, Hughes and Lee",6 months,3.2,Yes
+Tonight Agent,Clothing,56.22,a76f308a-ef5c-4966-bde6-f2624b8f4d04,161,2024-06-21,Collins Ltd,6 months,4.8,Yes
+Game Difficult,Beauty,278.62,458095ad-674a-4ead-a393-3697442022ea,2412,2020-07-02,Brown Inc,6 months,2.2,No
+Economic Her,Beauty,128.88,adacf73c-0db0-409f-a31f-da4122e8f181,4601,2024-01-23,"Farmer, Pace and Castro",3 years,4.2,No
+Site Buy,Home & Kitchen,635.07,48282214-7ff3-43da-952a-3b360fad24d2,4810,2020-06-24,Miller PLC,2 years,3.0,No
+Artist Realize,Beauty,801.44,3d402c6c-f8c5-45b0-b1e1-585bff9a9735,4794,2022-07-31,Reid-Chang,1 year,1.0,Yes
+Million Current,Sports,287.92,0bcfe2c3-8571-4b95-87aa-0e1e4707adfb,4510,2022-12-08,Alvarez-Cohen,1 year,4.5,Yes
+Must Structure,Sports,328.55,2c241bc3-2558-4f5e-a8ae-943a1cb963ea,1295,2022-08-11,Wiley Group,1 year,1.5,No
+Political Painting,Beauty,943.43,ed09a973-33c8-4d77-bec4-db8e4d3c0519,572,2022-05-26,Wade-Blake,1 year,3.5,No
+There Right,Home & Kitchen,154.79,e6037910-36ce-453a-acd7-2c2a7ea90a61,44,2022-04-22,Rogers Ltd,2 years,2.5,No
+Traditional Ground,Clothing,780.73,bb3d14b2-57a0-4c62-b175-a3d9a9c42e67,3313,2020-10-27,Martin and Sons,6 months,4.4,Yes
+Letter Use,Clothing,91.76,2dd5c304-4fc8-4cd0-a869-69c30f4871d9,125,2022-03-23,Perez-Stewart,6 months,1.9,No
+Condition Final,Electronics,537.24,44c333c8-e7cc-4282-bdab-d85852d7a80e,4585,2023-12-22,Rodriguez Group,1 year,4.9,Yes
+Once Only,Clothing,214.07,1f1e2396-2aa6-402b-be85-fae11f7bc95a,4399,2020-10-29,Smith-Walker,3 years,4.5,No
+Modern Decision,Beauty,110.56,5f2610c2-86c6-4f62-a2e6-bb7331fded31,4210,2024-05-05,"Baker, Smith and Wood",3 years,1.5,Yes
+Dream I,Beauty,734.16,5115515d-af3b-4d1d-b73a-62c0b162ea8d,2521,2023-09-13,"Taylor, Hernandez and Matthews",3 years,2.6,Yes
+Hotel Push,Sports,224.87,84697252-875d-4433-a8fd-81a5cc182e11,1030,2022-01-28,"Cunningham, Phillips and Johnson",2 years,3.2,Yes
+Way Tree,Beauty,719.46,57a7fe87-ae0a-4c42-aa5e-aba6f9739f86,814,2022-02-14,Harris-Steele,2 years,3.9,No
+Whole Style,Electronics,186.61,daf843b6-4b06-432b-9bad-f9b113c7b1c0,3263,2023-09-02,Walker-Young,2 years,5.0,Yes
+Study Station,Home & Kitchen,437.59,7faf1d88-9797-40a8-b106-a4e7100c188c,3184,2020-06-15,"Finley, Wright and Lee",1 year,4.7,Yes
+Term Since,Clothing,993.95,a6254730-0997-47d7-8364-63f781024240,1991,2021-10-20,Flowers-Anderson,6 months,1.6,Yes
+Kind State,Sports,862.7,6cb1c6b6-d09b-4d7a-91de-a8f3b3a3a62d,2435,2020-12-25,Herring-Andrews,1 year,4.4,Yes
+High Wide,Electronics,536.36,791b05ad-250e-4934-a618-95fe9ce5c280,3208,2024-08-15,Diaz and Sons,6 months,3.4,No
+Near Least,Sports,39.2,fcd58b60-3496-41e9-805a-202690fef236,3195,2023-11-24,Nguyen LLC,2 years,1.6,No
+System Beautiful,Home & Kitchen,763.52,25efc4c0-a426-4fbb-adc9-3b5773545216,229,2022-04-16,Smith Inc,3 years,4.2,Yes
+Business Particularly,Home & Kitchen,498.43,4c7f6cb4-a93d-43f7-a918-9aa4f00ce81f,175,2021-12-08,Thompson PLC,6 months,1.7,Yes
+Sit General,Sports,150.11,dfe99ff1-cf40-4455-95ae-f7800d630d15,4797,2022-06-27,Pope-Nunez,3 years,3.2,No
+Program Give,Home & Kitchen,771.54,5450f739-d478-4fa2-ae86-7d5f9da90f74,517,2020-07-25,Ware PLC,3 years,1.4,No
+Feeling Strategy,Home & Kitchen,466.97,7ab93fae-42cd-492f-8782-e67899e98890,3447,2023-08-06,"Osborn, Washington and Brown",1 year,3.5,Yes
+Add Visit,Home & Kitchen,975.7,96febc5e-5e8c-4590-811c-29377002834f,4217,2024-11-14,"Jacobs, Scott and Perkins",1 year,2.6,Yes
+Always Cultural,Electronics,894.58,95f68233-92fb-4eb1-9140-938b39cb3764,3539,2022-06-01,Brennan-Shields,3 years,2.3,Yes
+Sometimes Race,Beauty,967.23,1634f93a-6503-4584-9e1d-0e126fdfa00b,3544,2021-10-02,Hernandez-Burnett,3 years,2.8,No
+Now Heart,Sports,990.69,dee344e0-3009-4a69-b85f-bdb2068ca5da,933,2023-10-24,Barnett Group,2 years,2.9,Yes
+Poor Member,Home & Kitchen,577.65,1acabf76-1a39-41d2-ae8c-95e42cecc52f,2769,2024-10-27,Hill Ltd,1 year,3.7,No
+Enter Thing,Sports,793.95,bf238eb8-b605-41b0-9570-5be468f7a1d5,1530,2022-06-26,Blackwell-Taylor,3 years,3.9,No
+Economy Rate,Clothing,100.72,33a37c65-dbcd-4b3d-9667-3bb343eb3d41,263,2020-09-25,Cardenas LLC,2 years,4.7,Yes
+Garden Minute,Home & Kitchen,516.61,053144d7-ae55-4211-b831-fcd06176e67a,3497,2022-04-07,Garcia-Gibson,6 months,4.0,Yes
+Day Student,Electronics,295.2,d14f0689-4558-47be-bf02-908f33834cf3,304,2025-02-27,Trevino PLC,6 months,4.3,Yes
+West Meeting,Sports,838.18,871843c3-0d16-437f-99ff-add27a50e2ec,2007,2023-12-24,Taylor-Richardson,2 years,4.6,No
+Low Fight,Clothing,205.83,64bc0ac2-6e14-405f-87c3-6b145e06860c,4883,2021-12-21,Gonzalez LLC,1 year,2.4,No
+Bit Particularly,Electronics,10.94,34996cf3-a108-45e0-a29f-bcb10e5f2e14,3939,2023-08-13,Roberts LLC,3 years,2.2,No
+Suggest Scientist,Clothing,572.28,7e6e8d1a-9538-44f3-80eb-38fe735989d3,3619,2022-07-03,Johnson Inc,1 year,3.7,Yes
+Difference Religious,Beauty,29.59,dbc7abce-66cd-47c7-9a50-4f320432007e,1478,2024-11-24,Carroll LLC,2 years,4.4,Yes
+Customer Own,Clothing,580.63,880d1cb4-35e4-4ed9-9811-a065a9e594e8,2828,2023-03-11,"Adams, Huynh and Walsh",1 year,1.0,No
+City Catch,Sports,292.12,8bb5d877-4b2a-4447-a55e-4b653b65bdcf,3742,2020-09-26,"Golden, Anderson and Nichols",6 months,4.0,No
+Prevent Occur,Electronics,879.03,eb2b7dd0-5a29-4175-b42a-a21f66512554,1462,2022-02-07,"Clark, King and Berry",2 years,2.8,Yes
+Watch Side,Home & Kitchen,730.26,e2ff5d20-38b7-43e9-87a8-53b11d309762,471,2023-04-12,Wise-Chapman,6 months,3.5,No
+Popular Happy,Home & Kitchen,448.51,2f1f0fa3-cc8f-429c-a8d9-0ee7ae9949df,4837,2023-02-10,"Vega, Baldwin and Jones",1 year,4.0,Yes
+Above Matter,Sports,917.56,b6937425-45c2-4410-a98b-1dd9f34cb0dd,4633,2021-09-14,James-King,1 year,2.5,Yes
+His Western,Sports,264.02,4b8c791d-2258-441b-8f63-8a24568bd715,4804,2020-12-06,Sparks-Sanchez,1 year,2.2,Yes
+Figure Partner,Beauty,687.68,8470d8b0-e78e-4d4d-967a-388aacab7227,1561,2024-05-10,Bonilla-Taylor,1 year,3.3,Yes
+Charge Article,Clothing,808.11,742caa96-5ee6-4f4b-a57c-0ac5191c5163,4707,2024-06-20,"Kirk, Dunn and Carter",6 months,1.0,No
+Accept Feel,Sports,957.74,825d8b4a-779b-4be1-aab3-6a6ae23729de,2292,2022-05-06,Pope-Bailey,6 months,2.2,Yes
+Fall History,Electronics,340.41,2f7f24ce-f8d2-4716-9497-596e34b52d17,4635,2023-08-24,Carr and Sons,1 year,4.4,Yes
+Stop Spring,Beauty,371.77,5b2b7b74-86dd-4629-94a6-3c40ce951f72,4929,2023-12-10,"Garcia, Conner and Blankenship",2 years,1.5,No
+Approach Laugh,Electronics,921.33,54e1cc7e-9b0b-46ba-a199-9ea7fe8e3ec1,4961,2024-05-13,Rivera-Jenkins,6 months,3.6,No
+East Future,Beauty,353.24,40358bcd-d6a3-4fb0-8714-17e59b0bcda1,875,2022-09-18,Ball-Garcia,3 years,1.9,No
+Cause White,Sports,220.11,2328153c-ca0f-46c4-8605-787ef3daa083,1796,2022-11-05,"Humphrey, Brown and Brooks",1 year,4.4,Yes
+Vote These,Sports,828.47,82b968f0-9245-4c47-9db9-f149990c9bf1,1563,2023-09-02,Conley-Burke,3 years,1.2,Yes
+Answer Green,Sports,225.61,c99b96eb-be27-4aa3-b703-83b1ea666c83,2147,2025-01-23,"Hicks, Carter and Mullins",3 years,3.2,Yes
+Thought Wear,Electronics,102.09,e16bcd72-9e2b-4bcc-9a21-d7f383bc1261,913,2020-03-09,Molina-Brown,1 year,4.4,No
+Pull Girl,Electronics,815.68,fd6fdd32-0aa6-4f38-9a21-9f12ed9c71ba,1271,2020-04-27,"Miller, Johns and Oliver",6 months,4.0,Yes
+Pretty That,Beauty,776.79,2f51b508-0d5b-4028-9388-81345540dd71,2231,2021-12-28,"Gonzalez, Mcclain and Nguyen",6 months,1.9,Yes
+National Guy,Electronics,448.46,759d1131-56fd-45d3-8af7-3fd77d2a3a69,2275,2020-12-17,Lee Inc,2 years,2.0,No
+Near Hour,Home & Kitchen,87.65,7b47d76c-6804-441d-abec-04425569d34e,4842,2020-05-01,Wells Ltd,6 months,2.9,Yes
+Long What,Sports,800.38,71394434-313e-4e74-88a8-e3edb17476aa,1012,2022-09-16,Johnson-Gibbs,6 months,4.2,No
+Law Contain,Beauty,568.92,9c693fbc-73f6-48df-bceb-46ef79c56bcd,3142,2020-04-11,Lambert-Reyes,2 years,1.9,Yes
+Year Bed,Clothing,417.06,fbdddefb-4e72-4c32-a1a7-d04e5579d427,3586,2023-08-02,"Bright, Ellis and Delgado",1 year,4.6,Yes
+Smile Certain,Clothing,83.92,a6867f59-c47e-457d-a476-595c7fd4bfb5,115,2024-01-27,Kelly Inc,1 year,4.7,No
+Change Center,Clothing,438.58,c8950c1f-1e59-4bc2-83c1-6ca5ab6a449e,589,2022-06-10,"Williams, Jones and Bond",3 years,4.6,No
+Hot Education,Beauty,644.4,e03963a9-7c16-4a3e-ba2d-f3d8e876b9c8,526,2020-10-24,"Mejia, Powell and Rose",3 years,1.3,No
+Environment Staff,Beauty,939.45,864c11e1-0430-4f16-bfa8-3c4828b2b9d8,129,2024-09-22,"Martin, Kennedy and Martin",3 years,1.1,Yes
+Gas Quite,Sports,640.77,d38e10fc-381a-4bb0-bc54-9d1374acdb8a,2460,2025-02-23,Lindsey-Duncan,1 year,4.6,No
+Apply One,Electronics,48.96,67aa5d4e-5c04-43e1-824a-01ca0513f203,499,2021-11-28,Harding-Weber,2 years,4.2,No
+Guess Read,Electronics,458.4,63038ce3-91b3-44cc-9013-5fafb6026095,3741,2025-01-08,Padilla and Sons,2 years,1.9,Yes
+Arm Around,Electronics,29.67,d5468f5d-2736-4e29-81bf-0f47849ef83e,167,2024-11-10,"Chapman, Maldonado and Rice",6 months,3.5,Yes
+Argue Meet,Beauty,326.74,967c4df8-c9ba-40b6-9fd4-4d5a9492c8a8,1574,2020-12-01,Cox-Hooper,3 years,3.4,No
+Write Product,Electronics,360.75,f1119267-d787-4161-a995-eb2cd6e4a9db,1737,2021-02-13,Cummings Ltd,1 year,1.5,No
+Nation Protect,Electronics,680.88,c7e5c49e-d460-4b33-a1b9-17af2d2dfdf3,4178,2020-11-04,Brown-Acosta,1 year,3.3,No
+Church Some,Beauty,684.85,259fbd8a-5efd-408c-9f4c-afc59194f811,1909,2020-04-08,Rodriguez-Bailey,3 years,1.0,No
+As Join,Clothing,765.16,18563b07-af58-4cc7-8d3b-bbe996479527,1076,2021-09-18,"Jordan, Berry and Evans",1 year,3.5,Yes
+Debate Great,Home & Kitchen,543.7,be0c7a2c-1f7a-4dad-82f3-c806e4e5a183,3971,2021-05-08,Johnson-Rodriguez,2 years,3.7,Yes
+Market Beyond,Sports,659.65,4b9b0fde-7a1f-4439-b3fd-e7367d6e0060,2401,2021-04-20,"Pham, Bass and Adams",2 years,1.9,Yes
+More Either,Sports,853.35,1d94d392-ad34-4748-9eca-170517504c07,418,2024-03-24,Hansen LLC,6 months,2.3,Yes
+Guy Determine,Home & Kitchen,704.15,5b668d69-10b6-4d18-b859-260f4a342d71,2199,2022-08-13,Shields-Davenport,6 months,2.7,No
+So Whom,Clothing,254.41,369c3857-5ae9-4d08-8a0f-af0625a8eca0,3984,2021-10-16,Powers-Green,6 months,3.0,No
+Night Sell,Beauty,109.1,7dc7b607-f6ec-4e98-9729-3d63fcc10552,1829,2022-09-24,Martinez-Nelson,2 years,3.4,No
+Matter Activity,Home & Kitchen,122.88,e13f711a-c40d-44b0-8226-a4af8bb68644,764,2023-06-17,Stanley-Woods,2 years,4.5,Yes
+Across Country,Sports,584.14,8143b844-e5b6-4958-9ed7-c039ceab321a,3516,2022-03-04,Thornton-Cruz,2 years,4.8,No
+Should Region,Sports,401.58,98664025-8efe-4e4b-9c1a-a59f73139a3a,4457,2020-04-11,Barajas Group,3 years,3.7,Yes
+Nice Similar,Beauty,670.33,ce8d97e4-3f38-4c28-a2bf-18aa9a0a6930,2125,2023-10-17,Hernandez-Rivera,6 months,3.7,No
+Now School,Beauty,355.08,a7ecc556-2686-4c05-95ba-41a50c84c063,2810,2023-09-06,"Frost, Davis and Ruiz",3 years,1.1,Yes
+Later Change,Clothing,57.11,5719b1d5-9bd3-4ce3-901c-d010fec00502,954,2021-01-16,"Jackson, Ward and Boyle",1 year,3.2,Yes
+Name Either,Beauty,101.22,0b5326dc-3255-4f74-abd6-39bdbee0c216,1156,2022-04-08,Adams-Jones,3 years,3.6,No
+Everyone If,Beauty,918.87,dcefb7b8-f184-482d-a765-a4a6c6b36228,3456,2020-07-26,Evans-Zimmerman,2 years,4.6,Yes
+Exactly Foreign,Home & Kitchen,72.38,167b82b6-3f48-4bcc-842b-339e7a78686a,4049,2021-06-05,Kramer-Olsen,1 year,4.3,No
+Environmental Past,Clothing,664.26,f50cd5d0-d08e-4bec-a007-27011483b221,2846,2023-09-24,Hughes-Mckenzie,1 year,3.3,Yes
+Billion Without,Clothing,365.89,a805374d-c23b-4495-a21a-420b02082064,1794,2021-03-18,Lane-Noble,1 year,2.7,No
+Almost Present,Electronics,184.17,ca51c2c8-05a1-4b1d-8f98-9ec780cb175f,665,2020-07-13,Moore Group,6 months,2.5,No
+Class Chance,Home & Kitchen,918.45,812c007e-1b38-4386-8dfa-6d9e5cbb46ac,2847,2023-08-24,Hall-Adams,1 year,2.5,Yes
+Conference Affect,Beauty,845.29,dfc8456e-5219-42d5-9a52-68c5454073e4,263,2024-09-21,Cox Group,6 months,1.1,No
+Hospital Base,Home & Kitchen,813.76,df7d148f-dd09-463d-bda3-f2d8245fc342,4994,2020-09-29,Mullen-Martinez,3 years,2.0,No
+Summer Pattern,Clothing,355.23,f7947a8a-b73f-4139-9328-cf74e530c312,3893,2022-01-28,"Norton, Anderson and Garcia",1 year,3.7,Yes
+Region Gas,Beauty,490.6,57e41d70-143c-4430-b03d-ab7af88c3482,3634,2022-10-23,Schroeder-Delacruz,6 months,4.0,Yes
+Social Doctor,Beauty,918.49,d63b3be2-37bd-48a1-893d-10ea236d5360,1744,2020-12-07,"Atkins, Thompson and Camacho",3 years,2.5,No
+End Clear,Clothing,247.1,62fc4173-8d27-434f-82a4-dd6f8991024e,845,2021-07-27,Hernandez-Brown,1 year,1.2,Yes
+On Whatever,Clothing,225.23,0c987a2d-eddb-47f9-913f-177c0b588f49,4491,2022-05-08,"Chang, Kelly and Jones",2 years,3.0,Yes
+Indicate Piece,Sports,261.76,ac37df1b-bc1c-4fa1-8704-a8d849cd3ebe,3917,2024-03-27,Bailey-Wagner,1 year,4.8,No
+Condition Provide,Clothing,950.67,2402b5b4-3da6-410b-b051-3a1cf829aca6,1180,2021-07-24,Monroe-Blackburn,6 months,1.0,No
+Participant Lose,Clothing,405.54,c31d5033-be9f-4ec1-95df-0203cdf08a8c,2240,2022-07-14,"Lee, Fox and Griffin",6 months,1.6,No
+Play Want,Electronics,484.3,b7002863-edbb-49d7-a7f6-598cda2df925,1795,2020-05-25,Acevedo Inc,6 months,4.5,Yes
+Administration Including,Beauty,101.96,170276ea-bdf4-4221-a7a6-36c6870559da,3145,2022-08-26,"Arnold, Phillips and Hawkins",3 years,2.1,No
+Guy Event,Beauty,569.29,69fa6b47-6e3a-4063-95ec-baa6c0ec8c37,4509,2023-05-08,Alvarez LLC,1 year,1.9,Yes
+Career Simply,Sports,444.16,aa1086e4-50ba-4472-bec3-f28c91aa687b,3737,2024-11-07,"Kaufman, Daniels and Conner",2 years,1.6,No
+Manager Determine,Clothing,704.78,4a40bd71-7df4-4873-a018-e7ccef7db5ec,589,2020-05-23,"Martinez, Flowers and Schmidt",3 years,1.0,Yes
+Talk Prove,Electronics,893.25,bf8673e8-6f75-4983-987d-a21b10490db6,3187,2022-02-11,Gonzalez-Cooper,3 years,3.5,No
+Even Pressure,Clothing,20.31,b71ef62c-5537-4212-b22a-2e7f0f844606,1968,2022-02-11,"Hayes, Daniels and Robertson",2 years,1.0,No
+Participant Debate,Sports,267.47,705b7694-9746-4e2e-9c07-9f6820f4477c,2649,2021-06-11,Wilson-Dixon,3 years,4.7,Yes
+Plant Center,Electronics,662.53,10df466f-cfc8-442c-aa2f-8f60f9cd1f74,2180,2021-03-18,"Smith, Williams and Bailey",6 months,1.8,Yes
+Right Leave,Electronics,542.06,1b745981-173f-4918-aba2-aa97760d772b,3554,2020-11-02,Gross Group,3 years,4.9,Yes
+Course Focus,Clothing,214.11,bee2ecaa-130d-4058-a6ae-75d5b750d9d4,3377,2022-09-08,"Walker, Robinson and Dalton",6 months,4.7,Yes
+Town Question,Beauty,845.14,438c8617-2858-4332-99d0-6ce38e3d72c2,4421,2021-11-07,Nguyen PLC,3 years,2.8,Yes
+Information Marriage,Beauty,250.67,a9c0a092-cfcb-42aa-abf8-c69871effb62,4915,2023-09-21,"Allen, Robertson and Vance",1 year,2.9,Yes
+Exactly Between,Electronics,911.81,ea396a48-a13c-432b-9608-1ef2d35ee931,3264,2020-11-15,Kelley-Livingston,2 years,2.3,Yes
+Leader Sit,Home & Kitchen,657.33,cffa30ca-32e1-4db7-a163-bf2ba6e89c40,2217,2024-08-03,"Thomas, Reilly and Mcgee",3 years,3.5,Yes
+Plan Table,Sports,356.12,98779205-d160-4447-9136-d7df779de953,3040,2024-01-29,"King, Price and Watkins",6 months,1.2,No
+Sit Sister,Home & Kitchen,930.5,b54a9313-b63f-41a9-81e0-71fd8dee24af,1684,2025-01-17,Dawson LLC,1 year,3.6,Yes
+Tell Begin,Electronics,319.31,9b75e962-d27c-4f06-b364-79e5ebb95386,2420,2020-06-16,"Pacheco, Bush and Murray",6 months,3.3,No
+Civil Perform,Clothing,199.83,2d6bfab5-4641-4673-9ec2-c8917806a02e,3563,2021-06-02,Wyatt and Sons,6 months,1.7,Yes
+Pm Spring,Clothing,474.72,20e83816-2066-402a-8371-4f4956edc52a,920,2024-12-21,Randolph-Chavez,6 months,3.0,No
+Industry Interesting,Clothing,917.75,3f1b3062-e825-4822-8bf6-d1259b1d3695,1777,2022-07-31,Johnston-Singh,3 years,2.9,No
+Again Service,Clothing,286.68,92ce1cc6-8b8d-4216-a5b5-85b1317063da,1914,2020-09-08,Dalton Group,1 year,3.1,No
+Program Movement,Beauty,355.12,c9a9f614-d5b9-4d1e-aeeb-9943e2c38b4f,4133,2022-10-20,"Silva, Middleton and Roach",6 months,2.7,Yes
+Room School,Sports,835.89,0829e859-6be1-4a8a-b899-86abbcdd647e,3847,2021-03-04,"Hawkins, Peterson and Graham",1 year,4.8,No
+Age Computer,Sports,400.41,59662ac2-ef81-4e05-9b36-850c0de66a8e,3217,2023-05-10,"Johnson, Gonzalez and Hayes",2 years,1.2,No
+It Drug,Beauty,10.04,aee096b1-d40b-486a-a4eb-cb8153f98098,2804,2020-05-28,Whitaker PLC,6 months,2.9,Yes
+Guess Teach,Home & Kitchen,276.02,32300bd8-3429-46c5-a7cd-b7a5035e71a0,644,2020-06-20,Compton-Johnson,6 months,1.3,Yes
+Continue Wide,Sports,249.84,2dce0b8f-5679-4962-a194-d711f365154e,1716,2022-10-08,Clark Inc,1 year,4.9,Yes
+Also Argue,Home & Kitchen,305.06,cd83a87c-1b56-4bbc-865b-9a4504887187,4922,2021-08-11,"Clark, Duncan and Hughes",2 years,2.0,No
+Project Represent,Electronics,229.44,a24d6235-eebe-43a4-9af0-b0dcc3a3412c,637,2020-07-27,Rodriguez and Sons,2 years,2.5,Yes
+Lawyer Rest,Electronics,239.08,21a3cdfa-f61b-4e08-be49-9ca4ed8ded1d,2831,2021-07-18,"Green, Bowen and Phelps",1 year,2.5,No
+Appear Bed,Sports,982.98,34a3b986-ec54-4ae5-ac85-df806697dfd9,1279,2024-02-18,"King, Levy and Moses",2 years,4.8,Yes
+Address Somebody,Electronics,975.82,a6db8492-6d93-4275-90c4-90dcd27727bc,3299,2023-08-23,"Ray, Orozco and Bell",3 years,1.8,Yes
+Raise Accept,Clothing,117.51,5a66f0a1-bcbc-4526-bda6-ee7365750977,1046,2021-02-05,"Smith, Miller and Meyer",2 years,1.8,No
+Whether Owner,Home & Kitchen,681.94,3e4ce7b5-6cf1-454d-948d-271ea2ac40ae,3170,2021-08-23,Sutton Ltd,1 year,1.6,Yes
+Month Across,Beauty,724.42,defbbb57-fef7-40b2-9bdb-e0bd32454c4f,4601,2023-11-23,Moore-Adams,1 year,4.3,Yes
+Agree Song,Sports,614.54,00526f3b-c4f0-4c26-a7c3-5812a6a43e4b,3485,2024-07-07,Valenzuela Ltd,3 years,4.7,No
+Yard Region,Electronics,79.07,dd870dc3-a543-47ef-ac92-a44dbaeb8509,2179,2020-03-10,Parker Group,6 months,3.1,No
+Site President,Electronics,871.46,b5d4aad5-3bab-4d6a-8209-922e80bfcdcc,1761,2022-03-18,Wu-Mayo,2 years,3.4,Yes
+Charge Begin,Sports,99.16,f2e889b1-0f2e-4285-aa84-dbba623afb82,4165,2022-05-28,Patel and Sons,6 months,2.5,No
+Second Recognize,Beauty,819.5,5c9a1279-611d-44d3-ad3f-76f32c34ad2a,3663,2024-09-07,Garza-James,6 months,1.9,Yes
+Once Over,Electronics,649.42,1482185f-9c4d-49e9-8aac-4870cce3e2f1,1481,2020-08-07,"Miller, Bryant and Wood",3 years,3.7,No
+Dream Her,Home & Kitchen,544.68,00d72393-ee10-4947-83aa-a1d9bd00c9b7,4815,2022-05-10,"Sims, Hunt and Smith",2 years,4.8,No
+Out Notice,Clothing,296.49,ccc62388-3989-4ccc-8056-2d3f31e9002f,1926,2023-07-22,"Ferrell, Rowe and Fox",6 months,1.6,No
+When Everyone,Beauty,495.96,28fb2219-e5c6-4e9e-b898-5b457a448321,171,2024-10-11,"Williams, Cain and Jackson",6 months,2.1,Yes
+Spring Certainly,Home & Kitchen,659.75,be5d2cb1-ecb2-43f6-b770-53ed5a9fccf5,2422,2022-01-19,"Holloway, Page and Garcia",3 years,3.2,No
+Year Current,Electronics,521.74,fe31bbab-78c8-4c78-a058-15eb6c1b25c7,4291,2022-09-06,Chen Inc,1 year,2.4,No
+Same Short,Clothing,421.16,dd4336bf-b0e1-4a7c-9bec-2004b5d5aff6,3740,2022-09-10,"Miller, Andrews and Crawford",6 months,4.7,Yes
+Store Sort,Home & Kitchen,510.23,1fc73c61-d0f7-47c8-89a0-dfe8573428fc,3020,2021-04-04,Jones-Cabrera,2 years,1.4,No
+Color Purpose,Beauty,681.9,31235b36-10d3-4dc4-9c7c-0e77ad3e81f8,1794,2023-08-13,"Norris, Woods and Payne",2 years,4.6,Yes
+Democrat Various,Home & Kitchen,169.03,dc52d6da-6b60-4d17-8e97-b366aebafd59,1526,2021-05-08,Perkins Ltd,2 years,1.2,No
+Impact Decade,Clothing,219.89,774c9fc0-656a-4d6a-a6f4-4a869771024e,2272,2024-12-01,Simmons PLC,2 years,1.5,Yes
+Best Other,Electronics,210.11,f910b66b-0d6b-4616-8f3e-0f32d45280f8,1374,2022-10-25,Strong-Norton,1 year,1.7,Yes
+Agent Success,Clothing,862.56,9252a780-4a27-4bd3-833c-be56c1d0d97f,75,2022-05-09,Weaver-Ramirez,3 years,2.6,No
+Third Market,Sports,551.28,ba7c8a42-0472-4494-b619-352a4ae1fe78,3539,2023-07-02,Gordon LLC,3 years,1.6,No
+Mean Onto,Clothing,958.49,525870a3-a100-4ad6-b997-212ce3cf6bd6,1775,2024-01-28,Meza PLC,2 years,1.3,No
+By Pm,Beauty,705.37,e6e320b1-9ae0-4df1-9045-a549ea72df27,1015,2023-10-11,Reed Group,6 months,2.7,Yes
+Director Congress,Electronics,551.91,494847de-e64a-4026-90f1-b8a6faf5a194,6,2020-12-28,Miller Inc,3 years,3.3,Yes
+Away Science,Sports,882.81,e4c6d1cf-e6dd-4aad-990c-9e2fc725aa35,1728,2021-08-02,"Snyder, Rodriguez and Butler",6 months,3.2,Yes
+Her Seek,Electronics,41.05,30096e1e-9a8d-4b15-a68f-d8ce59db412f,4161,2025-02-05,Bauer LLC,1 year,2.7,Yes
+Short Head,Home & Kitchen,846.46,d6143ef3-77a3-4120-a948-5f28a9e5fcfe,1611,2021-09-10,Sanchez-Freeman,1 year,4.4,Yes
+Since North,Sports,353.0,a8c76836-0af4-4702-90fe-6e579d7df0e6,3978,2024-01-21,Holland-Meadows,1 year,3.7,Yes
+South Glass,Beauty,92.78,409609d4-e570-4d57-836e-bd28374db604,1974,2020-12-21,"Campbell, Becker and Martin",3 years,3.0,No
+Exist Movie,Home & Kitchen,899.04,0e904164-2225-466c-afef-783851a403b3,1640,2024-03-09,Roberts Group,6 months,3.0,Yes
+Sing Once,Home & Kitchen,367.97,c1276ad9-5b33-452a-99e6-890f855af412,4628,2020-07-18,Savage and Sons,2 years,1.4,No
+Moment Evidence,Clothing,676.42,482a4821-e127-4466-9460-13d9e0c0956f,2633,2021-01-03,Kelly-Obrien,3 years,4.6,No
+Answer Lot,Beauty,725.5,14e70b76-39f8-4095-bcff-00f4432fb545,2825,2024-01-27,"Rose, Richmond and Greene",2 years,2.4,Yes
+Fear Huge,Electronics,740.61,00d51b83-1093-45ab-af1e-7128cbae6c25,3017,2023-10-11,"Smith, Ryan and Gibson",3 years,2.7,No
+Less Hair,Sports,925.71,4ff50384-04c9-4fe5-9b7f-52e5793da6b1,1489,2024-12-19,"Guerrero, Brown and Cooper",6 months,2.0,Yes
+Or Agree,Electronics,254.81,c5091826-e8e6-4ebf-b271-96ed1ce7bc97,2187,2021-09-23,Smith PLC,2 years,4.7,No
+Sure Price,Clothing,941.59,a0a844b1-d0d0-4f6f-8557-dea9deaf99a9,2596,2021-07-10,Zimmerman-Sanders,6 months,1.6,Yes
+Pretty Level,Sports,26.15,35b82c15-896d-4e93-97ec-e56a43fa86a9,1683,2024-08-27,Holmes and Sons,1 year,3.6,No
+Peace Door,Home & Kitchen,594.07,b504586e-1944-402e-b0b2-c0338baaaa25,2873,2024-09-17,Avila-Ferguson,2 years,4.7,No
+Dog Fear,Sports,663.97,7982b3e8-874c-4cac-a6b0-751381d7b750,2015,2021-03-17,Duke LLC,2 years,3.7,No
+Local Level,Home & Kitchen,18.6,1baa0447-8bbc-4a1d-ab2a-ea62a6c9ad31,4090,2022-01-31,Little PLC,2 years,2.2,Yes
+Similar Build,Clothing,131.61,cbad7cb2-d872-47ac-bdfd-baba294bf53c,150,2023-09-14,King-Ruiz,2 years,2.8,No
+Happy Address,Clothing,790.4,ca7fa257-b926-443c-92a2-4044268e0f87,4998,2021-08-07,"Ware, Norton and Warner",1 year,4.5,Yes
+Age Last,Sports,615.84,b7bd7d09-df6a-405d-bf84-88669f60b6bf,2708,2023-05-01,Flores Group,3 years,4.5,No
+Ok Though,Sports,843.26,d0043d70-5372-4416-a164-6207ba73d22e,1707,2024-08-18,"Johnson, Vega and Reed",2 years,2.7,Yes
+Beat Attention,Sports,442.28,f09ca0f4-4661-40e7-9780-80e875b9d617,4668,2022-06-20,Thomas Inc,6 months,3.3,No
+Loss Across,Electronics,990.3,c9a40cf7-86dc-443a-bb09-073db0ade469,3521,2020-04-09,Bradley Group,1 year,4.3,No
+Sister Parent,Sports,445.23,33752f9a-a421-4228-a1d7-332f0d0de8d1,1065,2021-06-23,Smith PLC,3 years,3.1,Yes
+Reach Child,Beauty,593.1,df330550-8af4-49bc-aa03-9ee15b2167aa,3545,2024-04-13,"Clay, Allen and Meza",2 years,1.7,No
+Part Seem,Home & Kitchen,620.84,6baa06e8-e33c-4b98-afe6-37e0251ae394,4386,2024-04-24,"Walsh, Torres and Gonzalez",2 years,3.5,Yes
+Else President,Electronics,987.84,39f08ec0-4bda-4561-93bc-7193e5f19406,4655,2023-05-19,Williams PLC,6 months,3.4,No
+Minute High,Clothing,49.7,34c52248-24c1-412a-b786-231177d8859d,1347,2020-10-13,"Smith, Campbell and Hernandez",3 years,1.3,Yes
+Effect Campaign,Sports,56.93,a5cac9bf-08cc-4d4f-b683-b63d29b3ba65,4342,2023-10-06,Snow Ltd,3 years,2.5,No
+Prove Manager,Sports,588.82,c7c8c034-7fd8-491d-bc9d-801384fc8364,830,2020-12-30,Howard-Moss,3 years,2.8,No
+Thing After,Sports,934.16,0d048132-8572-4293-bd7a-24820a9f1eaa,2568,2021-11-17,Decker-Baker,2 years,3.8,Yes
+Business Color,Sports,838.09,2197874a-a048-4ade-b2ad-837dd865de1e,4924,2023-03-07,Farrell-Suarez,1 year,1.8,Yes
+Dinner Any,Sports,47.33,c9074870-4f99-445c-aab8-328c831fc2b5,2786,2021-01-07,"Hill, Schmidt and Bailey",6 months,2.3,Yes
+Story Owner,Home & Kitchen,372.22,2a7f000d-4589-4951-bd5a-f618d20ec200,2676,2020-12-16,Lee Group,2 years,2.2,No
+Democratic Money,Clothing,906.18,54e273fc-9464-41a1-aea0-1eef8c18a9ae,4230,2021-11-30,"Wilson, Marshall and Miller",3 years,2.5,Yes
+These Someone,Home & Kitchen,148.59,abd05a9f-b18d-4461-bbf6-916dd55e4c10,2763,2021-08-26,Stewart-Schmidt,6 months,2.3,Yes
+Seek Region,Sports,940.81,7cba6799-6e1a-4546-80dc-292481f5ffd2,3864,2023-05-28,"Rodriguez, Hunter and Collins",2 years,3.6,No
+Sometimes Hard,Home & Kitchen,59.8,41c27666-d234-45de-9062-6c67e20cc5b1,3206,2020-10-25,"Potter, Garcia and Hubbard",2 years,4.9,No
+Remain Personal,Electronics,561.1,d6710b0d-5e56-4a1a-a3fc-40545339d92c,276,2021-08-08,Riddle Inc,2 years,4.3,Yes
+Yeah West,Beauty,185.21,16917c6e-ee2d-4773-acfb-51f56506f773,3550,2023-04-16,Reed-Murphy,1 year,3.9,Yes
+Face Window,Sports,738.07,304e01c8-9657-401d-8c5a-cab4c7b473f2,976,2020-07-15,Juarez-Spears,1 year,3.5,Yes
+Finish Everybody,Sports,472.02,695a8654-8e5b-46b8-96cd-30a6b600eaba,2454,2023-12-13,"Nichols, Anderson and Johnson",1 year,4.8,No
+Attack Letter,Sports,640.72,b5ac2258-c9d1-4bd0-87e2-aec2b98280d0,4318,2024-07-15,"Douglas, Chapman and Warren",2 years,3.7,No
+Real Worker,Home & Kitchen,445.35,e2034a2e-8e5c-4072-b2bb-0b7b9c09b933,948,2021-04-20,Gutierrez-Shaw,2 years,3.4,Yes
+Agree Sport,Clothing,544.1,a2e77b39-583f-4bf5-a050-978bf0dae3f7,3292,2024-01-12,Dean PLC,2 years,1.4,No
+Assume Friend,Electronics,633.41,842dd8c8-c71a-4d8c-ae67-99c7125847e4,981,2024-01-13,Conner Inc,2 years,3.7,Yes
+Mean Anyone,Electronics,140.09,786b81f7-90c3-488c-9442-164fcbe622a8,347,2024-08-24,Mann Ltd,3 years,4.0,No
+Senior Skill,Electronics,31.4,61489169-36e5-4283-b6f4-71894fc55d9c,2686,2022-02-07,"Thompson, Jones and Watson",2 years,3.8,Yes
+Reason Firm,Home & Kitchen,59.84,582b7b87-19be-49f5-b285-a881d3a4976f,2806,2023-10-26,Collier-Martinez,6 months,2.6,No
+Threat Director,Clothing,29.34,fc506c0a-45ca-4953-99ce-c99c82bedad9,1336,2022-08-29,Francis-Bradford,1 year,4.4,No
+Usually Difference,Clothing,54.62,d8018507-7691-4be2-b2d2-ca3834abd887,3227,2020-12-09,Green-Moore,1 year,2.4,No
+President Actually,Clothing,22.91,96c88276-8ed3-4bff-a8d7-0f36d8e0f0e1,4759,2020-04-05,Jones-Sandoval,2 years,4.0,No
+She Wish,Sports,616.11,fc32b369-ab32-43e5-91e0-c8c9955b6d4c,3993,2022-02-17,Bush-Haynes,2 years,4.3,Yes
+Family Determine,Electronics,290.96,ef7bd1c0-3554-4b11-9263-4fc1b3f1b217,2165,2023-08-18,Lopez-Jensen,3 years,1.0,Yes
+Onto Staff,Sports,284.06,9b4c8618-33d5-48ac-a4d4-00bbfcd36b83,3604,2021-10-27,"Powell, Hoover and Gonzalez",3 years,3.0,No
+Forward Say,Electronics,623.26,f23c9a64-318c-41bd-87bd-ca46cee8a177,3140,2021-04-12,Clements Inc,1 year,4.0,Yes
+Have Other,Clothing,126.32,e01dd7ff-1cbc-4935-83b6-c6ba1b3a9ecd,3525,2020-04-26,Rivera Group,1 year,1.0,Yes
+Decide Throw,Electronics,237.03,c7abe979-6643-4198-a3ae-e3c72ea0c626,3867,2022-10-20,"Williams, Sanchez and Stevens",2 years,4.0,Yes
+Picture Will,Sports,515.83,5168339c-646d-40d9-93ab-fcf6f352cded,4019,2024-06-17,Vazquez Group,6 months,1.9,Yes
+Front Wall,Sports,960.52,e3ed84f0-a7dc-43ae-b57b-bd69e88d870b,4988,2021-10-17,"Williams, Meyers and Moore",3 years,2.3,No
+Kitchen Address,Sports,766.66,b83a4c22-baeb-4187-bce9-e2f35a9d307f,2659,2021-01-31,"Lopez, Evans and Bell",1 year,1.1,No
+Rich Quite,Sports,733.5,02971ea2-10eb-4db1-9172-63b1b99cd00a,332,2020-05-05,Patterson Ltd,1 year,4.1,Yes
+Probably Reason,Beauty,98.29,19699815-38fb-4d20-a0d7-41e2791c6bfa,3441,2022-08-23,Benson-Baldwin,6 months,3.4,No
+Hundred Campaign,Beauty,502.45,e54a5f58-684e-4029-93ba-276252e51f16,3649,2020-08-31,Garcia LLC,3 years,3.2,Yes
+Center Young,Sports,733.9,571d7ff3-b3f8-4c40-ac28-6b347919886c,4679,2021-05-29,"Alexander, Mason and Smith",2 years,4.6,Yes
+Color Performance,Home & Kitchen,615.29,b34995c0-cb3e-4957-88d2-9a117b014678,4915,2023-11-01,Wagner-Farmer,2 years,4.9,No
+Store Than,Sports,939.82,d5b9fe55-83f3-42a9-8cab-c0be49308b23,4674,2022-09-27,Coleman-Evans,3 years,2.9,Yes
+Sure Animal,Electronics,168.97,ebbb62a5-0b96-4a97-af54-83c9e4524039,4336,2024-04-15,Gutierrez-Walters,6 months,3.9,No
+Theory Perform,Home & Kitchen,257.27,c88e0670-a560-4183-819b-7d64a4ffa071,1268,2024-11-09,Rodriguez and Sons,2 years,2.4,Yes
+Girl Thank,Clothing,323.98,4b937549-8315-443d-84bd-6b0ee9264b03,154,2024-04-03,"Lozano, Vega and Lopez",2 years,2.4,Yes
+Region Indicate,Home & Kitchen,680.83,b71ebdab-5f17-40b8-b848-2bb4b11dc5b2,4519,2020-12-24,Dunn Group,2 years,2.3,No
+Million Kitchen,Sports,993.11,eac02990-d838-41be-b7ef-e985488d0ce4,4360,2023-03-05,Lloyd-Sanchez,1 year,2.7,Yes
+Tend Popular,Sports,247.81,453d339d-9375-46ca-baa8-b596cf4aab15,94,2024-11-20,Ward-Johnston,1 year,4.7,Yes
+Per Could,Sports,239.95,dec3ee74-6e28-46bc-9b0d-ace04edcabf3,229,2024-07-07,Molina-Moore,2 years,4.6,Yes
+Act Each,Clothing,948.65,e55732b6-8911-4aac-82f3-897fe40bfaa6,1972,2022-10-13,"Whitehead, Brandt and Campbell",2 years,2.8,No
+Head When,Home & Kitchen,55.69,3bb11dd8-e059-463b-9a68-6b73cf8fbe83,2681,2021-01-06,Hawkins PLC,3 years,3.9,Yes
+Arrive Mrs,Sports,191.12,0cf01b89-ae7c-42f5-afda-96013b969bab,1302,2021-08-10,Harris PLC,3 years,2.5,No
+Reflect Area,Home & Kitchen,460.48,78033382-8bd6-4236-891c-ba4a807959b2,2861,2021-07-15,"Crawford, Gordon and Haney",2 years,2.5,No
+Finally Whose,Clothing,871.8,8bb8efd9-df30-4842-9feb-db08ccce21d8,4469,2020-07-30,Smith Inc,2 years,3.9,Yes
+Someone They,Home & Kitchen,260.11,36e4e222-7abe-438e-b8d5-032bf611cee5,4227,2023-07-11,Williams-Carpenter,6 months,1.4,No
+Clear Group,Sports,92.52,bd758507-08ed-4dd2-b8c3-52b94a1b5d56,2015,2024-08-18,Edwards-Shelton,1 year,1.3,No
+Nothing Such,Electronics,943.07,ab76e80e-0465-467a-8764-026ed501e85a,4097,2022-07-01,"Powell, Ibarra and Peters",6 months,4.8,Yes
+Owner Center,Electronics,339.34,d0f40472-663d-447c-9f0c-5c4e06c0296b,4061,2024-06-25,Holloway LLC,3 years,3.1,No
+Hot Sing,Clothing,857.11,4b099bb6-f3ac-408f-8102-97cfd67f36be,1506,2021-07-10,"Flynn, Garcia and Nichols",6 months,1.5,Yes
+Focus Wide,Clothing,764.57,916f4c23-a715-4126-aab5-50872637b3a8,4519,2023-07-23,"Diaz, Walters and Wallace",1 year,1.0,No
+Bill Player,Home & Kitchen,471.6,fefe90c5-e9cd-400b-92d9-3a7787c4e523,4908,2021-02-04,Johnson Group,6 months,1.7,Yes
+Vote News,Electronics,366.02,e5dd9ae2-371d-4ecd-a60b-8b0b79b95722,1295,2022-01-01,"Ashley, Berger and Johnson",3 years,2.0,No
+Drug Raise,Electronics,313.5,2ce49580-7237-4fb7-b652-916bbdd1aabc,1978,2021-01-22,Singh Group,2 years,4.9,Yes
+Make Assume,Electronics,170.1,b6672c4c-bd41-4d80-b114-7c0c1def21f1,1227,2023-12-13,King-Weber,3 years,4.6,Yes
+Plan Cover,Beauty,129.97,927704c6-d82e-48be-8775-3ba5d127b6aa,1233,2022-07-06,"Vega, Ball and Walker",6 months,2.8,Yes
+Vote Outside,Home & Kitchen,813.41,de8af279-2974-4873-8443-ee0d0c50be33,1518,2022-12-20,"Bowen, Lewis and Hamilton",1 year,2.2,Yes
+Hand Especially,Home & Kitchen,141.0,7ae7093f-1962-452d-b6da-65d75f7ef19f,3269,2023-03-06,Gardner PLC,2 years,1.1,Yes
+Not Like,Beauty,585.35,6763b811-0238-459f-a087-873dda99c9ca,2273,2021-07-05,"Moran, Beard and Hurley",6 months,4.4,No
+Himself Only,Electronics,673.41,3489f6b3-b5e4-4446-a254-cb9abbac9d7b,2726,2022-10-02,Scott PLC,2 years,4.7,No
+Difficult Treat,Home & Kitchen,835.44,e1ff11cf-fd53-4eb2-8c9c-33308469be3e,347,2023-06-27,"Nelson, Jefferson and Mccormick",2 years,4.6,Yes
+Yet Seven,Beauty,990.48,27480234-3f5d-4424-af5e-2c5b8175d63f,2018,2021-07-10,Howard Ltd,6 months,4.6,Yes
+Recent Quality,Clothing,61.47,3a1fcc57-0362-4f3d-91d4-92ef38278de7,2989,2023-03-29,"Carr, Garcia and Mann",1 year,2.3,Yes
+Make Idea,Sports,295.82,248017c1-c9fb-4aff-be73-e52683bbfaaf,2287,2022-01-22,Ramos-Stanley,3 years,1.2,No
+Follow Across,Home & Kitchen,158.63,347ce7d3-5e1b-4337-a2ca-8f3c8ccd8d4d,2112,2020-09-24,"Stewart, Jimenez and Cervantes",1 year,3.6,Yes
+Author Enough,Beauty,495.74,a9d6af3d-b9cf-4e00-bea3-e74ba4b9bb3c,3309,2022-07-18,Navarro PLC,2 years,3.6,Yes
+Ground Food,Sports,262.98,ef2f777f-cf63-429a-a5ea-f003d2f30897,4676,2021-01-11,Day LLC,2 years,4.6,Yes
+Beautiful Difficult,Sports,755.66,073ded09-43da-4640-9d37-d3c13b632c9c,483,2022-03-07,"Phillips, James and Knight",6 months,3.2,No
+Fish Middle,Sports,911.91,0510821b-77f5-4c19-914f-66c49dcc8ad9,976,2023-04-08,Gutierrez-Gregory,2 years,2.4,No
+Five Talk,Sports,239.82,adf2c4c0-946e-4ebc-aa00-a321439a8c52,2184,2024-04-23,"Dorsey, Montes and Walker",6 months,4.5,No
+Stop Lawyer,Clothing,79.96,c782f33a-169d-4660-b3f5-7dd198295bb8,4949,2023-12-13,"Schmitt, Hill and Bradley",3 years,2.5,Yes
+Purpose Lot,Beauty,965.24,431599b2-bba2-4838-aabc-b226f3578715,4998,2025-01-05,Campbell-Patterson,1 year,1.1,Yes
+Or Successful,Electronics,506.15,f92d17df-96d1-45da-b83c-4da2e5026ac9,3377,2021-04-13,Williams-Baxter,6 months,3.5,Yes
+Enjoy Finish,Home & Kitchen,669.2,67a3539c-f4fe-4da9-add3-de2d60332c31,3175,2024-09-26,Shaw-Rodriguez,3 years,3.2,Yes
+Half Benefit,Sports,770.68,cbe11cae-805d-43aa-902d-2c39c138140b,2583,2024-10-19,"Payne, Klein and Jennings",6 months,2.2,No
+Common Decade,Electronics,249.84,9f12a301-4384-4d11-86df-2792fc380d80,412,2021-03-16,Holmes-Henderson,2 years,3.8,Yes
+Parent Time,Sports,752.06,667533d9-d9d2-4170-8325-1fcdd708c2ac,2893,2020-09-16,"Johns, Walters and Sims",2 years,2.6,Yes
+From Three,Sports,355.65,c7783feb-9990-414d-8cc4-6d5206837b4c,1317,2023-02-24,Ortega-Thompson,2 years,2.0,Yes
+Energy Situation,Beauty,493.25,98750044-9f10-4b03-ba6b-696587a0eaca,2014,2022-08-06,"Wright, Gonzalez and Fox",6 months,1.3,No
+Manage Including,Sports,762.92,3092d9a3-b801-4263-a2fd-cedc2232bf6f,2630,2024-04-29,Brown-Smith,2 years,2.9,No
+Debate Myself,Electronics,309.99,e4d94594-e83e-4e15-ba74-0537354fc107,2560,2023-06-16,"Reyes, Mckenzie and Richard",1 year,3.5,Yes
+Save Do,Sports,141.32,3db9b776-3314-4671-a6c6-0b2eeca60424,996,2020-09-28,Saunders-Jackson,1 year,1.7,Yes
+Cell But,Electronics,371.95,5c6abfb2-af19-4454-a811-b3748492ef99,590,2021-06-12,"Scott, Smith and Guzman",3 years,3.4,No
+Responsibility Next,Sports,589.72,bc0270f1-86b2-4a41-b062-489ba4039cd9,2738,2020-08-14,"Moore, Fields and Brown",2 years,2.7,No
+Answer Indicate,Clothing,218.22,23acf15a-213b-4b13-863e-95a000616371,4731,2021-04-04,Rocha-Harmon,3 years,1.7,Yes
+Fish Owner,Electronics,561.22,d307cfdb-165c-4772-ad44-ac4a10932941,1189,2023-04-02,Ward Group,2 years,2.3,Yes
