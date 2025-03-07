@@ -26,7 +26,7 @@ This guide will walk you through the process of installing and using Faker to ge
 	<li>install requirements.txt file</li>
 	<li><code>pip install -r requirements.txt</code></li>
 
- </ul>
+</ul>
 
 <h2> How to run this code</h2>
 <ul>
