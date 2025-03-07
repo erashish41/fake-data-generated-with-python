@@ -33,6 +33,4 @@ def unzip_zipped_file(file_name):
 
     with ZipFile(file_name, "r") as unzip_object:
         unzip_object.extractall("unzipped_files")
-
-
 unzip_zipped_file("all_json_zip_files.zip")
